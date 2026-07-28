@@ -25,3 +25,7 @@ Proyecto desarrollado para administrar productos, clientes y compras de una tien
 2. Iniciar Apache y MySQL desde XAMPP.
 3. Importar el archivo tienda.sql en phpMyAdmin.
 4. Abrir el proyecto desde localhost.
+
+## Control de versiones
+
+El proyecto utiliza GitHub para mantener un historial de cambios, trabajar mediante ramas y revisar las modificaciones antes de incorporarlas a la versión principal.
